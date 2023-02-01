@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+First we will be using Hyperspace Testnet lite node for data management using this [https://docs.filecoin.io/developers/infrastructure/how-tos/spin-up-a-lite-node/](guide)
+
+
 First, run the development server:
 
 ```bash
